@@ -10,15 +10,15 @@ exclude:
 
 # Site settings
 title: Computer vision
-subtitle: ""
+subtitle: "Computer vision"
 email: didtmdgks11@kaist.ac.kr
 name: Yang seunghan
 description: >
-  Computer vision.
-  Deep learning.
-  Digital signal processing.
-  Digital image processing.
-  Optimization theory.
+  Computer vision.  
+  Deep learning.  
+  Digital signal processing.  
+  Digital image processing.  
+  Optimization theory.  
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -52,11 +52,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: Deep learning
+    desc: ""
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Digital image processing
+    desc: ""
 
 # Social icons and sharing options
 #
