@@ -2,7 +2,7 @@
 layout: post
 title: "Test math"
 use_math: true
-category: computer vision
+category: Deep learning
 ---
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
