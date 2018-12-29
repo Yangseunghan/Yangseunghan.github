@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Test math"
 use_math: true
 ---
