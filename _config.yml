@@ -6,7 +6,8 @@ gems:
   - jekyll-paginate
 
 exclude:
-
+  - "/vendor/"
+  
 # Site settings
 title: Computer vision
 subtitle: "Computer vision"
