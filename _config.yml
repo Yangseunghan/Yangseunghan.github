@@ -10,10 +10,10 @@ exclude:
 
 # Site settings
 title: Computer vision
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: ""
 email: didtmdgks11@kaist.ac.kr
 name: Yang seunghan
-description: >
+description:
   Computer vision.
   Deep learning.
   Digital signal processing.
