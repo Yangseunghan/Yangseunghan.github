@@ -56,10 +56,10 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Deeplearning
+  - cat: Deep learning
     desc: ""
 
-  - cat: Imageprocessing
+  - cat: Digital image processing
     desc: ""
 
 # Social icons and sharing options
@@ -84,7 +84,7 @@ social:
     username: 
     url:
     desc: Friend me on Facebook
-    share: false
+    share: true
 
   - name: GitHub
     icon: github
@@ -98,14 +98,14 @@ social:
     username: 
     url: 
     desc: Connect with me on LinkedIn
-    share: false
+    share: true
 
   - name: Google+
     icon: google-plus
     username:
     url:
     desc: Add me to your Circles
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
@@ -119,7 +119,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: false
+    share: true
 
   - name: SoundCloud
     icon: soundcloud
@@ -168,7 +168,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: false
+    share: true
 
   - name: "Hacker News"
     icon: hacker-news
