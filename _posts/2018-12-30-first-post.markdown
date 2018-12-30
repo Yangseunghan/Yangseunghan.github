@@ -48,4 +48,9 @@ author: Yangseung
   </tr>
 </table>
 </div>
-  
+
+<ul>
+  <li>Hidden to output weigth</li>
+  <img src="/post_images/1_4.png">
+  <p>Hidden layer에서 output layer로 feed forward 할 때 사용되는 parameter가 objective function에 어떠한 영향을 미치는지 살펴보겠습니다.
+</ul>
