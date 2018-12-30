@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Backpropagation 수식으로 이해하기"
-category: Deep learning
+category: Deeplearning
 date: 2018-12-30
 author: Yangseung
 ---
