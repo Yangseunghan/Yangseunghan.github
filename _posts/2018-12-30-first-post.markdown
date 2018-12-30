@@ -59,5 +59,8 @@ author: Yangseung
   <p>bias는 일단 무시한채 진행하였습니다. width는 각각 n, d, c로 정하였습니다.
   <p align="center"><img src="/post_images/1_6.png"></p>
   <p align="center"><img src="/post_images/1_7.png"></p>
-  <p>Objective function은 MSE로 정하였고 아래와 같습니다. 이제 parameter의 weight들이 objective function에 얼마나 영향을 미치는지 알아 볼 것입니다.</p>
+  <p>Objective function은 MSE로 정하였고 아래와 같습니다.</p>
+  <p align="center"><img src="/post_images/1_8.png"></p>
+  <p>이제 본론으로 돌아와서 parameter의 weight들이 objective function에 얼마나 영향을 미치는지 알아 볼 것입니다.</p>
+  
 </ul>
