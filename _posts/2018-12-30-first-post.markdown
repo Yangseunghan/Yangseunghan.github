@@ -37,7 +37,7 @@ author: Yangseung
 
 <hr>
 
-<h3>수식으로 전개하여 이해하기</h3>
+<h3>Backpropagation 수식전개</h3>
 <p>먼저 아래표와 같은 상황에서 수식을 전개한 후 일반화해서 생각해보도록 하겠습니다.</p>
 <table cellspacing="0" cellpadding="0">
   <tr>
