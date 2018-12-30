@@ -20,4 +20,4 @@ author: Yangseung
 <p>Backpropagation 이름은 정말 거창하지만 알고 보면 별거 없습니다. 왜 이걸 알아내는데 그렇게 오래 걸렸을까 하는 의문이 들 정도로..</p>
 Supervised learning에서 objective function <br/>
 <br/>
-<img src="/post_images/1_1.png" width="300" height="300">
+<img src="/post_images/1_1.png>
