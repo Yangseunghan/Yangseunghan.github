@@ -56,10 +56,10 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Deep learning
+  - cat: Deeplearning
     desc: ""
 
-  - cat: Digital image processing
+  - cat: Imageprocessing
     desc: ""
 
 # Social icons and sharing options
