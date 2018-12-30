@@ -19,7 +19,7 @@ author: Yangseung
 <h3>Backpropagation이란?</h3>
 <p>Backpropagation 이름은 정말 거창하지만 알고 보면 별거 없습니다. 왜 이걸 알아내는데 그렇게 오래 걸렸을까 하는 의문이 들 정도로..</p>
 Supervised learning에서 objective function <br/>
-<center><img src="/post_images/1_1.png"></center>
+<p align="center"> <img src="/post_images/1_1.png"></p>
 objective function을 최소화 하는 즉 이 training error를 최소화 하는 방향으로 모든 parameter를 계속해서 update해주어야 한다.
 그러기 위해서는 각 parameter에 대한 objective function의 변화량을 알아야 하고, 아래와 같이 구할 수 있다.<br/>
-<center><img src="/post_images/1_2.gif"></center>
+<p align="center"><img src="/post_images/1_2.gif"></p>
