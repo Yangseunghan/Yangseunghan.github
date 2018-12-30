@@ -23,4 +23,9 @@ Supervised learning에서 objective function <br/>
 objective function을 최소화 하는 즉 이 training error를 최소화 하는 방향으로 모든 parameter를 계속해서 update해주어야 합니다.<br/>
 (Deep learning에서는 gradient descent방법을 사용. objective function이 최소가 되게하는 parameter들을 미분과 연립방정식으로 찾는게 아닌 objective function의 값이 줄어드는 방향으로 계속해서 parameter들을 update.)<br/>
 그러기 위해서는 각 parameter에 대한 objective function의 변화량을 알아야 하고, 아래와 같이 구할 수 있습니다.<br/>
-<p align = "center"><img src="/post_images/1_2.gif"></p>
+<p align = "center"><img src="/post_images/1_2.png"></p>
+Objective function을 모든 parameter에 대해 편미분을 해줌으로써 parameter가 objective function에 어떠한 영향을 미쳤는지 알 수 있고 gradient방향 반대로 parameter들을 update하여 objective function을 최소화 할 수 있습니다.<br/>
+<p align = "center"><img src="/post_images/1_3.png"></p>
+<hr>
+
+<h3>수식으로 전개하여 이해하기</h3>
