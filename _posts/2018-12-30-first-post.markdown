@@ -19,7 +19,7 @@ author: Yangseung
 <h3>Backpropagation이란?</h3>
 <p>Backpropagation 이름은 정말 거창하지만 알고 보면 별거 없습니다. 왜 이걸 알아내는데 그렇게 오래 걸렸을까 하는 의문이 들 정도로..</p>
 Supervised learning에서 objective function <br/>
-<p align="center"> <img src="/post_images/1_1.png" width=10% height=10%></p>
+<p align="center"> <img src="/post_images/1_1.png" width=5% height=5%></p>
 objective function을 최소화 하는 즉 이 training error를 최소화 하는 방향으로 모든 parameter를 계속해서 update해주어야 합니다.<br/>
 (Deep learning에서는 gradient descent방법을 사용. objective function이 최소가 되게하는 parameter들을 미분과 연립방정식으로 찾는게 아닌 objective function의 값이 줄어드는 방향으로 계속해서 parameter들을 update.)
 그러기 위해서는 각 parameter에 대한 objective function의 변화량을 알아야 하고, 아래와 같이 구할 수 있.<br/>
