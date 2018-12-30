@@ -47,11 +47,15 @@ author: Yangseung
     <td>1 </td><td>1 </td><td>1 </td><td>MSE </td>
   </tr>
 </table>
-</div>
 
 <ul>
   <li>Hidden to output weight</li>
-  <p>Hidden layer에서 output layer로 feed forward 할 때 사용되는 parameter가 objective function에 어떠한 영향을 미치는지 살펴보겠습니다.</p>
-  <p aligh="center"><img src="/post_images/1_4.png"></p>
+  <p>Hidden layer에서 output layer로 feed forward 할 때 사용되는 parameter가 objective function에 어떠한 영향을 미치는지 살펴보겠습니다.</br>
+  아래와 같은 weight에 대한 편미분의 값을 알아내는게 목표입니다.</p>
+  <p align="center"><img src="/post_images/1_4.png"></p>
+  <p>그러기 위해서는 먼저 feed forward식들을 알아야 하는데 다음과 같습니다.</br>
+  우선 아래와 같이 쓰기로 약속을 하고, objective function까지의 식을 전개해보도록 하겠습니다.</p>
+  <p align="center"><img src="/post_images/1_5.png"></p>
+  
   
 </ul>
