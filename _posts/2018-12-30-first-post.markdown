@@ -41,10 +41,10 @@ author: Yangseung
 <p>먼저 아래표와 같은 상황에서 수식을 전개한 후 일반화해서 생각해보도록 하겠습니다.</p>
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <th>Input i </th><th>Hidden j </th><th>Output k </th>
+    <th>Input i </th><th>Hidden j </th><th>Output k </th><th> J(w)</th>
   </tr>
   <tr>
-    <td>depth 1 </td><td>1 </td><td>1 </td>
+    <td>1 </td><td>1 </td><td>1 </td><td>MSE </td>
   </tr>
 </table>
 </div>
